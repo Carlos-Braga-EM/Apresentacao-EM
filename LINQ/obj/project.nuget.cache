@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "USwPTcCY5vQ=",
+  "success": true,
+  "projectFilePath": "C:\\WorkCarlos\\Apresentacao\\LINQ\\LINQ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EM\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.109\\microsoft.net.sdk.compilers.toolset.9.0.109.nupkg.sha512"
+  ],
+  "logs": []
+}

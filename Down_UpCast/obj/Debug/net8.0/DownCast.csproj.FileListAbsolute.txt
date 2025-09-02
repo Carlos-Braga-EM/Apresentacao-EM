@@ -1,0 +1,14 @@
+C:\Users\EM\source\repos\Apresentacao\Down Cast\bin\Debug\net8.0\DownCast.exe
+C:\Users\EM\source\repos\Apresentacao\Down Cast\bin\Debug\net8.0\DownCast.deps.json
+C:\Users\EM\source\repos\Apresentacao\Down Cast\bin\Debug\net8.0\DownCast.runtimeconfig.json
+C:\Users\EM\source\repos\Apresentacao\Down Cast\bin\Debug\net8.0\DownCast.dll
+C:\Users\EM\source\repos\Apresentacao\Down Cast\bin\Debug\net8.0\DownCast.pdb
+C:\Users\EM\source\repos\Apresentacao\Down Cast\obj\Debug\net8.0\DownCast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EM\source\repos\Apresentacao\Down Cast\obj\Debug\net8.0\DownCast.AssemblyInfoInputs.cache
+C:\Users\EM\source\repos\Apresentacao\Down Cast\obj\Debug\net8.0\DownCast.AssemblyInfo.cs
+C:\Users\EM\source\repos\Apresentacao\Down Cast\obj\Debug\net8.0\DownCast.csproj.CoreCompileInputs.cache
+C:\Users\EM\source\repos\Apresentacao\Down Cast\obj\Debug\net8.0\DownCast.dll
+C:\Users\EM\source\repos\Apresentacao\Down Cast\obj\Debug\net8.0\refint\DownCast.dll
+C:\Users\EM\source\repos\Apresentacao\Down Cast\obj\Debug\net8.0\DownCast.pdb
+C:\Users\EM\source\repos\Apresentacao\Down Cast\obj\Debug\net8.0\DownCast.genruntimeconfig.cache
+C:\Users\EM\source\repos\Apresentacao\Down Cast\obj\Debug\net8.0\ref\DownCast.dll

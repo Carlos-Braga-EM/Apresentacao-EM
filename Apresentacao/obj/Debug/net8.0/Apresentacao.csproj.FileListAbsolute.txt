@@ -1,0 +1,14 @@
+C:\Users\EM\source\repos\Apresentacao\Apresentacao\bin\Debug\net8.0\Apresentacao.exe
+C:\Users\EM\source\repos\Apresentacao\Apresentacao\bin\Debug\net8.0\Apresentacao.deps.json
+C:\Users\EM\source\repos\Apresentacao\Apresentacao\bin\Debug\net8.0\Apresentacao.runtimeconfig.json
+C:\Users\EM\source\repos\Apresentacao\Apresentacao\bin\Debug\net8.0\Apresentacao.dll
+C:\Users\EM\source\repos\Apresentacao\Apresentacao\bin\Debug\net8.0\Apresentacao.pdb
+C:\Users\EM\source\repos\Apresentacao\Apresentacao\obj\Debug\net8.0\Apresentacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EM\source\repos\Apresentacao\Apresentacao\obj\Debug\net8.0\Apresentacao.AssemblyInfoInputs.cache
+C:\Users\EM\source\repos\Apresentacao\Apresentacao\obj\Debug\net8.0\Apresentacao.AssemblyInfo.cs
+C:\Users\EM\source\repos\Apresentacao\Apresentacao\obj\Debug\net8.0\Apresentacao.csproj.CoreCompileInputs.cache
+C:\Users\EM\source\repos\Apresentacao\Apresentacao\obj\Debug\net8.0\Apresentacao.dll
+C:\Users\EM\source\repos\Apresentacao\Apresentacao\obj\Debug\net8.0\refint\Apresentacao.dll
+C:\Users\EM\source\repos\Apresentacao\Apresentacao\obj\Debug\net8.0\Apresentacao.pdb
+C:\Users\EM\source\repos\Apresentacao\Apresentacao\obj\Debug\net8.0\Apresentacao.genruntimeconfig.cache
+C:\Users\EM\source\repos\Apresentacao\Apresentacao\obj\Debug\net8.0\ref\Apresentacao.dll

@@ -1,0 +1,14 @@
+C:\Users\EM\source\repos\Apresentacao\Apresentacao\bin\Debug\net8.0\Conversao de tipo.exe
+C:\Users\EM\source\repos\Apresentacao\Apresentacao\bin\Debug\net8.0\Conversao de tipo.deps.json
+C:\Users\EM\source\repos\Apresentacao\Apresentacao\bin\Debug\net8.0\Conversao de tipo.runtimeconfig.json
+C:\Users\EM\source\repos\Apresentacao\Apresentacao\bin\Debug\net8.0\Conversao de tipo.dll
+C:\Users\EM\source\repos\Apresentacao\Apresentacao\bin\Debug\net8.0\Conversao de tipo.pdb
+C:\Users\EM\source\repos\Apresentacao\Apresentacao\obj\Debug\net8.0\Conversao de tipo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EM\source\repos\Apresentacao\Apresentacao\obj\Debug\net8.0\Conversao de tipo.AssemblyInfoInputs.cache
+C:\Users\EM\source\repos\Apresentacao\Apresentacao\obj\Debug\net8.0\Conversao de tipo.AssemblyInfo.cs
+C:\Users\EM\source\repos\Apresentacao\Apresentacao\obj\Debug\net8.0\Conversao de tipo.csproj.CoreCompileInputs.cache
+C:\Users\EM\source\repos\Apresentacao\Apresentacao\obj\Debug\net8.0\Conversao de tipo.dll
+C:\Users\EM\source\repos\Apresentacao\Apresentacao\obj\Debug\net8.0\refint\Conversao de tipo.dll
+C:\Users\EM\source\repos\Apresentacao\Apresentacao\obj\Debug\net8.0\Conversao de tipo.pdb
+C:\Users\EM\source\repos\Apresentacao\Apresentacao\obj\Debug\net8.0\Conversao de tipo.genruntimeconfig.cache
+C:\Users\EM\source\repos\Apresentacao\Apresentacao\obj\Debug\net8.0\ref\Conversao de tipo.dll
